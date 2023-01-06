@@ -1,0 +1,13 @@
+.nutshell {
+    /* position: static !important; */
+    overflow: visible !important;
+    background-attachment: local !important;
+}
+
+.connectable {
+    background-attachment: local !important;
+}
+
+.worldcup {
+    background-attachment: local !important;
+}

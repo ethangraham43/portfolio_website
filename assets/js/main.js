@@ -102,7 +102,7 @@
 
 								var pos = parseInt($window.scrollTop()) - parseInt($this.position().top);
 
-								$this.css('background-position', 'center ' + (pos * -0.15) + 'px');
+								$this.css('background-position', 'center ');
 
 							});
 
